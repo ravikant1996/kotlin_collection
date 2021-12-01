@@ -12,11 +12,10 @@ abstract class ContactDatabase : RoomDatabase() {
     abstract fun contactDao(): ContactDAO
 
     companion object {
-        val migration_1_2 = object : Migration(1, 2) {
+        private val migration_1_2 = object : Migration(1, 2) {
             override fun migrate(database: SupportSQLiteDatabase) {
                 database.execSQL("Alter table contact add column isActive Integer not null default(1)")
             }
-
         }
 
         // kuch bi value change hoti h to sabhi thread ko pta chl jata h

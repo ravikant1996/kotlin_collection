@@ -73,4 +73,10 @@ dependencies {
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0-RC'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0-RC'
 
+    def latestVersion="2.9.0"
+    implementation "com.squareup.retrofit2:retrofit:$latestVersion"
+    implementation "com.squareup.retrofit2:converter-gson:$latestVersion"
+
+    implementation 'androidx.work:work-runtime:2.7.1'
+
 }

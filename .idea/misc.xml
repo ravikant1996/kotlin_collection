@@ -4,15 +4,19 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/drawable/bg_card.xml" value="0.2203125" />
+        <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/drawable/item_red.xml" value="0.2203125" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_binding_adapter.xml" value="0.1" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_data_binding.xml" value="0.20416666666666666" />
+        <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_diff_util.xml" value="0.1712962962962963" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_live_data1.xml" value="0.20416666666666666" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_live_data_binding.xml" value="0.1" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_main.xml" value="0.11458333333333333" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_mvvmactivity.xml" value="0.19010416666666666" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_quotes.xml" value="0.20416666666666666" />
+        <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_retrofit1.xml" value="0.10208333333333333" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_room.xml" value="0.2" />
         <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/activity_view_model1.xml" value="0.12864583333333332" />
+        <entry key="..\:/TrainingEmtech/a_pro/kotlin/Lifecycleaware/app/src/main/res/layout/item_view.xml" value="0.1712962962962963" />
       </map>
     </option>
   </component>
